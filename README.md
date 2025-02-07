@@ -1,6 +1,6 @@
 # 💖 Valentine Special 💖
 
-This is a playful and interactive web project where the "No" button moves away when hovered, making it impossible to decline! 💘 Perfect for asking out your crush in a fun and creative way. 😉
+This is a playful and interactive web project showing outstanding animation for saying happy valentines day. 💘 Perfect for asking out your crush in a fun and creative way. 😉
 
 ## Tech Stack 💻
 
